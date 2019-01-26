@@ -1,4 +1,4 @@
-# Surrealist-User-Interaction (Introduction to Computing: Lab 3)
+# Surrealist-User-Interaction (Computational Art: Lab 3)
 In this lab, I recreated an example of surrealism using JavaScript. When the user clicks in the middle of the eye (the pupil), 
 the piece becomes truly surrealist by changing the iris into a sky filled with clouds.
 
